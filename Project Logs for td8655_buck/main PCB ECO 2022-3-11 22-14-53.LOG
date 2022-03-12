@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetR7_2 Pin=U2-0
+Removed Pin From Net: NetName=SW Pin=U3-0
+Change Component Footprint: Designator=C11 Old Footprint=dip-ec10*17 New Footprint=SMD_10*10.2
+Change Component Footprint: Designator=C1 Old Footprint=rad8*11 New Footprint=SMD_6.3*7.7
+Change Component Designator: OldDesignator= NewDesignator=U1
+Added Room: Name=td8655

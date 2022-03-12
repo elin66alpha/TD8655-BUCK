@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=pad1-4
+Added Pin To Net: NetName=GND_OUT Pin=pad2-4
+Added Pin To Net: NetName=VIN Pin=pad3-4
+Added Pin To Net: NetName=VOUT Pin=pad4-4
+Added Room: Name=td8655
